@@ -1,4 +1,6 @@
 This repository holds open source SymbolSource projects.
+The original is at https://github.com/SymbolSource/SymbolSource.Community
+But that repo seems pretty dead now.
 
 
 ## SymbolSource.Server.Basic
